@@ -14,4 +14,7 @@ public class git {
     public void test3(){
         System.out.println("修改3次");
     }
+    public void test4(){
+        System.out.println("修改4次");
+    }
 }
